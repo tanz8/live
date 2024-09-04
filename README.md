@@ -17,11 +17,11 @@
       <td>IPTV</td>
       <td>
 
-https://raw.github.tax/wwb521/live/main/tv.txt</td>
+https://raw.github.tax/tanz8/live/main/tv.txt</td>
 
 <td>
 
-https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
+https://raw.github.tax/tanz8/live/main/tv.m3u <br/></td>
 
 </tr>
 
@@ -35,13 +35,13 @@ https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
     <tr>
         <th>类别</th>
         <th>正常</th>
-        <th>18+(当心社死！！！)</th>
+        <th>直播源多线路</th>
     </tr>
     <tbody>
     <tr>
 <td>tvbox</td>
-<td>https://raw.github.tax/wwb521/live/main/movies.json</td>
-<td>https://raw.github.tax/wwb521/live/main/video.json</br></td>
+<td>https://raw.github.tax/tanz8/live/main/movies.json</td>
+<td>https://raw.github.tax/tanz8/live/main/iptv46.m3u</br></td>
 </tr>
   </thead>
   </table>
