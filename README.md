@@ -2,7 +2,7 @@
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
-<h3>2024.8.17:直播源已经更新</h3>
+<h3>2024.9.4:直播源已经更新</h3>
 
 <h2>IPV6直播源</h2>
 <table>
@@ -78,13 +78,13 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 https://github.com/lizongying/my-tv-0/releases
 
 <h2>打赏支持是我更新的动力</h2>
-<img src="https://raw.github.tax/wwb521/live/main/pay.jpeg" width="480px">
+<img src="替换https://raw.github.tax/wwb521/live/main/pay.jpeg" width="480px">
 
 <h2>扫码联系</h2>
-<img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
+<img src="替换https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
 
 <h2>VPN机场推荐</h2></br>
-<a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
-<a href="https://ikuuu.pw/auth/register?code=FJQz">ikuuu机场</a>
+<a href="替换https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
+<a href="替换https://ikuuu.pw/auth/register?code=FJQz">ikuuu机场</a>
 
 
