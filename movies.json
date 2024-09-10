@@ -564,7 +564,7 @@
     },
     {
       "key": "fan",
-      "name": "https://github.com/tanz8/live",
+      "name": "https://github.com/wwb521/live",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
