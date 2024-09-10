@@ -591,7 +591,6 @@
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-{"name":"fanmingming","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"timeout":10},
     {
       "name": "IPV2",
       "type": 0,
@@ -600,6 +599,5 @@
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
-  
   ]
 }
