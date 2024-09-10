@@ -634,7 +634,7 @@
     {
       "name": "圆圆",
       "type": 0,
-      "url": "http://175.178.251.183:6689/live.m3u"，
+      "url": "http://175.178.251.183:6689/live.m3u",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
