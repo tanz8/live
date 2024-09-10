@@ -618,7 +618,7 @@
     {
       "name": "iill",
       "type": 0,
-      "url": "https://tv.ill.top/m3u/Gather",
+      "url": "https://tv.iill.top/m3u/Gather",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
