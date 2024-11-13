@@ -1,8 +1,8 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/ys.ico">一个分享电视、影视源的项目 </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/hftv/live/refs/heads/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
-<h3>2024.11.13:直播源已更新为IPV6格式，IPV4的失效太快，没有细分类大家就凑合看吧，需要路由器开启IPV6选项、填写链接时不要开翻墙软件</h3>
+<h3>2024.11.13:直播源已更新为IPV6格式，需要路由器开启IPV6选项、填写链接时不要开翻墙软件</h3>
 <h2>IPV6直播源</h2>
 <table>
   <thead>
@@ -16,21 +16,14 @@
       <td>IPTV</td>
   <td>
 
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt </br>
-
-短链接：http://gg.gg/1c5sff
+https://raw.bgithub.xyz/hftv/live/refs/heads/main/tv.txt </br>
 
 </td>
-
 <td>
-
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/>
-
-短链接：http://gg.gg/1c5shv
+https://raw.bgithub.xyz/hftv/live/refs/heads/main/tv.m3u <br/>
 </td>
-
 </tr>
-
+ </tr>
   </thead>
   </table>
 <h2>TvBox</h2>
@@ -39,26 +32,13 @@ https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/>
     <tr>
         <th>类别</th>
         <th>正常</th>
-        <th>18+(当心社死！！！)</th>
     </tr>
-    <tbody>
-    <tr>
 <td>tvbox</td>
-<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json </br>
-
-</br>短链接：http://gg.gg/1c5sjl
+<td>https://raw.bgithub.xyz/hftv/live/refs/heads/main/movies.json </td>
 
 
-</td>
-<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
-
-</br>短链接：http://gg.gg/1c5sjx
-
-</td>
-</tr>
   </thead>
   </table>
-
 <h2>如果直播源很麻烦，就用下面的这些</h2>
 https://wwt.lanzouj.com/b00xxqs6h </br>密码:7r7h</br></br>
 
@@ -93,16 +73,3 @@ https://github.com/lizongying/my-tv-0/releases
 
 <h3>空壳直播软件配置教程（派大星直播APP为例）</h3>
 <a href="https://www.bilibili.com/video/BV1cM4m117sB/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a>
-
-<h2>打赏支持是我更新的动力</h2>
-<img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="480px">
-
-<h2>扫码联系</h2>
-<img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="470px">
-
-<h2>VPN机场推荐</h2></br>
-<a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
-<a href="https://yyds.emovpn.top/#/register?code=LVXCEsxq">EMO</a></br>
-<a href="https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM">便宜机场</a></br>
-
-
