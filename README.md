@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.github.tax/wwb521/live/main/ys.ico">一个分享电视、影视源的项目 </h1>
+<h1 align="center"> <img src="https://raw.github.tax/hftv/live/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
