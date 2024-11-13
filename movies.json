@@ -564,7 +564,7 @@
     },
     {
       "key": "fan",
-      "name": "https://github.com/wwb521/live",
+      "name": "https://github.com/hftv/live",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -581,12 +581,12 @@
       "changeable": 0
     }
   ],
-  "logo": "https://raw.github.tax/wwb521/live/main/ys.ico",
+  "logo": "https://raw.github.tax/hftv/live/main/ys.ico",
   "lives": [
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt",
+      "url": "https://raw.bgithub.xyz/hftv/live/refs/heads/main/tv.txt",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
